@@ -7,4 +7,4 @@ Website •    https://gtmadureira.github.io   ![verified_logo](./images/verifie
 
 Welcome !
 
-© 2019 - 2020 Gustavo Madureira, All rights reserved.
+© 2019 - 2021 Gustavo Madureira, All rights reserved.

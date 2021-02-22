@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/gtmadureira
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://gtmadureira.omg.lol
+  * I am gtmadureira (https://keybase.io/gtmadureira) on keybase.
+  * I have a public key ASDBjdQdkl5EQryFYxaSfzSVqpHsdwfPF0j33DtyfhfYogo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205da2e8561d28e091962e67f13849b82c8fc5266506b0b330c6c5b67d1d6adce30a",
+      "host": "keybase.io",
+      "kid": "0120c18dd41d925e4442bc856316927f3495aa91ec7707cf1748f7dc3b727e17d8a20a",
+      "uid": "d8ae7e29ff16ef8e6ccd0a7f8a8a1719",
+      "username": "gtmadureira"
+    },
+    "merkle_root": {
+      "ctime": 1613965049,
+      "hash": "7bced2dccafb264f020573d51e21644f744563bcb09141ac29ddc06fd7b87a4c63e3f43ea7257ce5794d2bc2e109560ba5eeaa1c13b5af48c2730a7160f837cb",
+      "hash_meta": "92a584ea2831e1589a0fa6e0a689db8866aa5fb86b11f5aac05cad06df49c196",
+      "seqno": 19184623
+    },
+    "service": {
+      "entropy": "Z2DNO1ny2F5Bjsd8dCMr9x6o",
+      "hostname": "gtmadureira.omg.lol",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.1"
+  },
+  "ctime": 1613965072,
+  "expire_in": 504576000,
+  "prev": "82e0a229fd0adba6696a7be40d501182c91cf76a4b7b83fa48f86176f11c747c",
+  "seqno": 155,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgwY3UHZJeREK8hWMWkn80laqR7HcHzxdI99w7cn4X2KIKp3BheWxvYWTES5cCzJvEIILgoin9CtumaWp75A1QEYLJHPdqS3uD+kj4YXbxHHR8xCCYHDXBM/3kfsnDU9nppwBiHrAUWNCoOAnYLrwPnpaBVAIBwqNzaWfEQLWnJEyc4hcENfYWkD43gwz3wcPHOtrUgtfxYw6uQvXG4Ql72QC40D5iV+JKrhkJPZsO3OJUOj6iuv91EqFULQCoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCC2VZs7K0bYwryrFmJ34cxF9fOtPkFte4Sq0GDjl4BkM6N0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gtmadureira
+
+==================================================================
